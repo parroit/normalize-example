@@ -1,0 +1,27 @@
+{
+  "name": "normalize-example",
+  "version": "0.0.0",
+  "description": "example setup of normalize server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parroit/normalize-example.git"
+  },
+  "keywords": [
+    "normalize",
+    "example",
+    "package",
+    "manager",
+    "node",
+    "harmony"
+  ],
+  "author": "Andrea Parodi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parroit/normalize-example/issues"
+  },
+  "homepage": "https://github.com/parroit/normalize-example"
+}
